@@ -7,23 +7,24 @@ body {
   padding-top: 56px;
 }
 
-ul.social-links{
+ul.social-links {
   list-style-type: none;
 
 }
 
-.dropdown-menu{
+.dropdown-menu {
 
   min-width: 5rem;
 }
 
-.navbar-brand img{
+.navbar-brand img {
 
   height: 40px;
   padding-left: 30px;
 
 }
 
-.navbar-nav li{
+.navbar-nav li {
   padding: 0 10px;
 }
+
